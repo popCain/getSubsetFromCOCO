@@ -1,5 +1,5 @@
 # getSubsetFromCOCO
-You can get the subset(interested categories) from COCO dataset with gloucv
+You can get the subset(interested categories) from COCO dataset with google Colab and gloucv library
 ## train2017
 * The number of category in train2017
 ![](https://github.com/popCain/getSubsetFromCOCO/blob/main/image/train2017_coco.png)
