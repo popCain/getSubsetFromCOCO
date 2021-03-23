@@ -1,5 +1,7 @@
 # getSubsetFromCOCO
 You can get the subset(interested categories) from COCO dataset with google Colab and gloucv library
+## coco.names is class label file
+## utils is the folder used for drawing operations from YOLOV3
 ## train2017
 * The number of category in train2017
 ![](https://github.com/popCain/getSubsetFromCOCO/blob/main/image/train2017_coco.png)
